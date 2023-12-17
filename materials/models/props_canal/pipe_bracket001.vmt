@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_canal/pipe_bracket001
 $bumpmap	null-bumpmap

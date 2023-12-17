@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_buildings/buildingsheet_01a
 $surfaceprop concrete

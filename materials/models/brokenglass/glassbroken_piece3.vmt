@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/brokenglass/glassbroken_piece3
 $vertexalpha 1

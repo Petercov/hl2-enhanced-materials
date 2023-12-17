@@ -1,4 +1,4 @@
-Refract
+SDK_Refract
 {
 $dudvmap	models/props_wasteland/lighthouse_fresnel_light_dudv
 $normalmap	models/props_wasteland/lighthouse_fresnel_light_normal

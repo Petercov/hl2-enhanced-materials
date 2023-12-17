@@ -1,4 +1,4 @@
-UnlitGeneric
+SDK_UnlitGeneric
 {
 $basetexture models/props_foliage/cattails
 $receiveflashlight 1

@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_junk/phys_objects02a
 $bumpmap	null-bumpmap

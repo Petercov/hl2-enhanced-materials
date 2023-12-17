@@ -1,4 +1,4 @@
-LightmappedGeneric
+SDK_LightmappedGeneric
 {
 $basetexture shadertest/sphericalenvmapblendmaskedbasetimeslightmap
 $envmap shadertest/envmap

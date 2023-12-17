@@ -1,4 +1,4 @@
-UnlitTwoTexture
+SDK_UnlitTwoTexture
 {
 $basetexture models/effects/portalfunnel_sheet
 $texture2	models/effects/portalfunnel2_sheet

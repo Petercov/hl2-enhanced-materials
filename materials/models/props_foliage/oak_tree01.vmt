@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_foliage/tree_deciduous_01a_trunk
 $bumpmap	null-bumpmap

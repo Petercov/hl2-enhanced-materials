@@ -1,4 +1,4 @@
-WorldVertexTransition
+SDK_WorldVertexTransition
 {
 $basetexture nature/sandfloor009b
 $basetexturetransform "center .5 .5 scale 1 1 rotate 0 translate 0 0"

@@ -1,4 +1,4 @@
-vertexlitgeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/weapons/v_grenade/rim
 $bumpmap	models/weapons/v_grenade/rim_normal

@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_canal/generator02
 $bumpmap	models/props_canal/generator02_normal

@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/items/boxmrounds
 $bumpmap	models/items/boxmrounds_normal

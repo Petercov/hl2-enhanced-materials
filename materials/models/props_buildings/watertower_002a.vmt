@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_buildings/watertower_002a
 $bumpmap null-bumpmap

@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/combine_room/combine_monitor002
 $bumpmap	models/combine_room/combine_monitor002_normal

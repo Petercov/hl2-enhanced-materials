@@ -1,4 +1,4 @@
-vertexlitgeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/weapons/v_grenade/grenadetop
 $bumpmap models/weapons/v_grenade/top_normal

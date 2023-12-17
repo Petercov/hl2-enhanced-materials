@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_c17/furniture_detailprops001a
 $envmap env_cubemap

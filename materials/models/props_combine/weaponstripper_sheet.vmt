@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_combine/weaponstripper_sheet
 $surfaceprop metal

@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_c17/handrailmetal001a
 $bumpmap	null-bumpmap

@@ -1,4 +1,4 @@
-UnlitGeneric
+SDK_UnlitGeneric
 {
 $basetexture shadertest/translucentspecularsphericalenvmapwithmaskedbase
 $additive 1

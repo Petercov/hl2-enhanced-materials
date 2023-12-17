@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/barnacle/barnacle_sheet
 $bumpmap	models/barnacle/barnacle_normal

@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_animated_breakable/smokestack/brickwall002a
 $bumpmap	null-bumpmap

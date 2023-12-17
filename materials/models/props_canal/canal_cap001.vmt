@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_canal/canal_cap001
 $bumpmap	null-bumpmap

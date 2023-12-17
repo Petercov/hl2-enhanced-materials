@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_trainstation/train_utilities001a
 $bumpmap	null-bumpmap

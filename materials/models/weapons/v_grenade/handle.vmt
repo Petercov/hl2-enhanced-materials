@@ -1,4 +1,4 @@
-vertexlitgeneric
+SDK_VertexLitGeneric
 {
 $basetexture Models/Weapons/V_grenade/handle
 $bumpmap	models/weapons/v_grenade/handle_normal

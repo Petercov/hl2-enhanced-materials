@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_c17/gate_door02a
 $bumpmap	null-bumpmap

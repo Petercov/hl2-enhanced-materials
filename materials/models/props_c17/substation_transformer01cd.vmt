@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_c17/substation_transformer01cd
 $envmap env_cubemap

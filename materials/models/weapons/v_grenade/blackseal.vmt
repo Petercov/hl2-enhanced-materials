@@ -1,4 +1,4 @@
-vertexlitgeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/weapons/v_grenade/blackseal
 $bumpmap	"models/weapons/v_grenade/black seal_normal"

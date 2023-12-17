@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_junk/cardboard_boxes001a
 $bumpmap	null-bumpmap

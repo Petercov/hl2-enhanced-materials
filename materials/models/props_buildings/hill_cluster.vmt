@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $baseTexture models/props_buildings/hill_cluster
 $bumpmap null-bumpmap

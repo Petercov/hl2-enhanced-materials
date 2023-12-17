@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_rooftop/large_parliament_dome
 $surfaceprop concrete

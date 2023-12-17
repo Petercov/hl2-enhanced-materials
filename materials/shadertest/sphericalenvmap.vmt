@@ -1,4 +1,4 @@
-UnlitGeneric
+SDK_UnlitGeneric
 {
 %tooltexture shadertest/envmap
 $envmap shadertest/envmap

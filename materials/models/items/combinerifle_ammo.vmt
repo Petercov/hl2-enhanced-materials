@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/items/combinerifle_ammo
 $bumpmap	models/items/combinerifle_ammo_normal

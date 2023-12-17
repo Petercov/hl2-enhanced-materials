@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_citizen_tech/wind_mill_blade002
 $surfaceprop metal

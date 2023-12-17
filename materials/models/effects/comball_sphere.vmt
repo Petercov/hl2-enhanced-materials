@@ -1,4 +1,4 @@
-UnlitGeneric
+SDK_UnlitGeneric
 {
 $basetexture models/effects/comball_sphere
 $nocull 1

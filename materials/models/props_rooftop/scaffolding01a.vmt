@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_rooftop/scaffolding01a
 $surfaceprop metal

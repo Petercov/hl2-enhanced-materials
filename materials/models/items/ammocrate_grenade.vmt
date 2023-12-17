@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/items/ammocrate_grenade
 $bumpmap	models/items/ammocrate_normal

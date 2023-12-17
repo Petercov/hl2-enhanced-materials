@@ -1,4 +1,4 @@
-VertexLitGeneric
+SDK_VertexLitGeneric
 {
 $basetexture models/props_borealis/bluebarrel001
 $bumpmap	null-bumpmap
